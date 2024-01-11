@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191579339032",
+    "project_id": "geoshot-9bd66",
+    "storage_bucket": "geoshot-9bd66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191579339032:android:601ff23761b7e8af81866d",
+        "android_client_info": {
+          "package_name": "com.app.geoshot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ5LMXW_33k0dx9BzbMZsAw3b-QGt8z6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+name: geoshot
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  camera: ^0.10.5+8
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.4.9
+  connectivity_plus: ^5.0.2
+  shared_preferences: ^2.2.2
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  equatable: ^2.0.5
+  intl: ^0.18.0
+  firebase_core: ^2.4.1
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/RobotoMedium.ttf
+          weight: 500
+        - asset: assets/fonts/RobotoRegular.ttf
+          weight: 400
